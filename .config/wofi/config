@@ -3,6 +3,6 @@ width=350
 height=350
 prompt=drun
 insensitive=true
-term=kitty
+term=ghostty
 allow_images=true
 fuzzy=true

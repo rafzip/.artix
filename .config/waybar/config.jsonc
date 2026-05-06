@@ -145,7 +145,7 @@
     "exec": "~/.config/waybar/scripts/updates-waybar.sh",
     "return-type": "json",
     "interval": 600,
-    "on-click": "kitty -e bash -lc 'sudo pacman -Syu; read -n 1'"
+    "on-click": "ghostty -e bash -lc 'sudo pacman -Syu; read -n 1'"
   },
 
   "power-profiles-daemon": {

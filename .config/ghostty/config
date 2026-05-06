@@ -3,8 +3,8 @@ font-size = 12
 
 background = 0f0f0f
 foreground = dcdcdc
-background-opacity = 0.92
-background-blur-radius = 20
+background-opacity = 0
+background-blur-radius = 80
 
 selection-background = 282828
 selection-foreground = dcdcdc
